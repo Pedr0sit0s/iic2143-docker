@@ -5,7 +5,6 @@ Este proyecto configura un entorno de desarrollo Ruby on Rails utilizando Docker
 ## Requisitos Previos
 
 - Docker instalado en tu máquina.
-- Docker Compose instalado en tu máquina.
 
 ## Instrucciones de Configuración
 
