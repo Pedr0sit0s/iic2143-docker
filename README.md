@@ -12,8 +12,8 @@ Este proyecto configura un entorno de desarrollo Ruby on Rails utilizando Docker
 ### 1. Clona el Repositorio
 
 ```sh
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone <https://github.com/Pedr0sit0s/iic2143-docker.git>
+cd <iic2143-docker>
 ```
 
 ### 2. Configura las Variables de Entorno
